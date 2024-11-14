@@ -2,7 +2,7 @@
 
 **Description:**
 
-This repository contains the complementary HTML code for the chapter "Musical Robots - Overview and Methods for Evaluation" published in the book "Sound and Robotics" (edited by Richard Savery).
+This repository contains the complementary HTML code for the chapter "Musical Robots - Overview and Methods for Evaluation" published in the book "Sound and Robotics : Speech, Non-verbal audio and Robotic Musicianship" (edited by Richard Savery).
 
 **Resources:**
 
